@@ -13,6 +13,7 @@ class AHomeWorkGameMode : public AGameModeBase
 
 public:
 	AHomeWorkGameMode();
+	virtual void StartPlay() override;
 };
 
 

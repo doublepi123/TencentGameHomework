@@ -1,13 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{B76BEA62-45AF-7136-D73D-18B190F57E20}",
+	"EngineAssociation": "{16D2D010-4F9D-C63F-B155-B6A6DDF35D5A}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
 			"Name": "HomeWork",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
