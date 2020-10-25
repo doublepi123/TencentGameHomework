@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{16D2D010-4F9D-C63F-B155-B6A6DDF35D5A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FPS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
